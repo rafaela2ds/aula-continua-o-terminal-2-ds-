@@ -1,0 +1,15 @@
+$ sudo apt install git    
+[sudo] password for oem: 
+Sorry, try again.
+[sudo] password for oem: 
+Sorry, try again.
+[sudo] password for oem: 
+sudo: 3 incorrect password attempts
+oem@cceinfo10:~$ 
+oem@cceinfo10:~$ 
+oem@cceinfo10:~$ 
+oem@cceinfo10:~$ 
+
+
+
+
